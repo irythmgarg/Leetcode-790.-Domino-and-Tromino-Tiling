@@ -84,8 +84,6 @@ dp[i] = 2 * dp[i - 1] + dp[i - 3]
 * **Roll Number**: 102203014
 * **University**: Thapar University, Patiala
 
-🛠️ Brought to you by a 50-year README design veteran 😉📄💪
-
 ---
 
 ## 🎯 Final Thoughts
